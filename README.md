@@ -1,5 +1,9 @@
 # 04-pokemon-game
 
+## Demo
+
+[**DEMO HERE**](https://gc-pokemon-game.netlify.app/)
+
 ## Project setup
 ```
 npm install
